@@ -2,4 +2,6 @@
     font-size: 3rem;
     margin: 2rem;
     text-align: center;
+    text-shadow: -2px -2px 0 rgb(255, 131, 22), 2px -2px 0 rgb(255, 131, 22), -2px 2px 0 rgb(255, 131, 22), 2px 2px 0 rgb(255, 131, 22);
+    color: white;
 }
